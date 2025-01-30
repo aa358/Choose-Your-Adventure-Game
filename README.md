@@ -9,3 +9,4 @@ Key features:
 - Simple yet immersive gameplay using vanilla JavaScript
 
 🚀 Try the game and embark on your adventure!
+Play it here: https://aa358.github.io/Choose-Your-Adventure-Game/ 
