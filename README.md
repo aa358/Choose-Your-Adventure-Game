@@ -1,3 +1,5 @@
+# Choose Your Own Adventure ✨
+
 Choose Your Adventure is an interactive text-based adventure game built with HTML, CSS, and JavaScript. Players navigate through a branching storyline by making choices that lead to different outcomes, including victory, survival, or loss. The game dynamically updates text, images, and buttons based on player decisions, creating an engaging experience.
 
 Key features:
